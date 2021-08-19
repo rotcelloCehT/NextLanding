@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  }
+}
+
+// This allows for /something instead of ../../something
